@@ -306,16 +306,6 @@ Retail-Sales-SQL-Analysis/
 
 ---
 
-# 💼 Resume Bullet Points
-
-* Developed an end-to-end SQL analytics project using retail transaction data to solve 10+ business use cases.
-* Designed SQL solutions for customer segmentation, revenue analysis, sales trends, and operational reporting.
-* Utilized CTEs, aggregate functions, CASE statements, and date functions to build analytical solutions.
-* Delivered business KPIs including category revenue, customer contribution, and shift-level operational insights.
-* Demonstrated practical SQL problem-solving skills using SQL Server and T-SQL.
-
----
-
 # 🧠 Skills Demonstrated
 
 * SQL
