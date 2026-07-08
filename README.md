@@ -333,8 +333,13 @@ Retail-Sales-SQL-Analysis/
 
 # 👨‍💻 Author
 
-**Rakesh Chavan**
+**Rakesh Chavan** 
 
-Senior Data Analyst | Power BI | SQL | Python | Microsoft Fabric | PL-300 Certified | DP-600 Certified
+Data Analyst | Power BI • SQL • Python • Microsoft Fabric • Excel  
+
+📧 Email: chavanrakesh666@gmail.com  
+🔗 LinkedIn: [Rakesh Chavan](https://www.linkedin.com/in/rakesh-chavan-data/)  
+💻 GitHub: [rakeshchavan-analytics](https://github.com/rakeshchavan-analytics)  
+🌐 Portfolio: [Explore My Work](https://sites.google.com/view/rakeshchavan09/home)
 
 ---
