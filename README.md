@@ -277,16 +277,6 @@ This project demonstrates how SQL can drive business decisions by:
 
 ---
 
-# 💻 Technology Stack
-
-| Technology | Usage                       |
-| ---------- | --------------------------- |
-| SQL Server | Database Platform           |
-| T-SQL      | Query Development           |
-| SSMS       | Query Execution and Testing |
-
----
-
 # 📁 Repository Structure
 
 ```text
@@ -303,21 +293,6 @@ Retail-Sales-SQL-Analysis/
 │
 └── README.md
 ```
-
----
-
-# 🧠 Skills Demonstrated
-
-* SQL
-* T-SQL
-* Data Analysis
-* Business Analytics
-* Retail Analytics
-* Sales Analytics
-* KPI Development
-* Customer Analytics
-* Problem Solving
-* Data Storytelling
 
 ---
 
